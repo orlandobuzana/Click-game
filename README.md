@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Clicky-App
+## Clicky-Game
 
-memory game using React.
+memory game using React. Link to [Clicky-Game](https://orlandobuzana.github.io/click-game)
 
